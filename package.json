@@ -1,10 +1,5 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "hello-express",
   "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
   "main": "Owsla.js",
   "scripts": {
     "start": "node Owsla.js"
@@ -36,18 +31,5 @@
     "string-table": "^0.1.5",
     "superagent": "^5.2.2",
     "syncrequest": "^1.4.7"
-  },
-  "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ],
-  "author": ""
+  }
 }
