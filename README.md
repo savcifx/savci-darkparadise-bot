@@ -3,7 +3,7 @@
 
 # ***Botun Hangi Kısımları Editlendi Çalma?***
 
-||Kanka iyi bak görürsün anana sövdürtme ekmek al kullan.||
+* **`Kanka iyi bak görürsün anana sövdürtme ekmek al kullan.`**
 
 # ***Botu Nasıl Kurcam Keke***
 
