@@ -1,0 +1,53 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "Owsla.js",
+  "scripts": {
+    "start": "node Owsla.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "chalk": "^2.4.2",
+    "chart.js": "^2.9.3",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "fresh.db": "^1.0.5",
+    "fs": "0.0.1-security",
+    "imgur-uploader": "^4.2.1",
+    "jimp": "^0.13.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.15",
+    "monkjson": "^1.2.3",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "string-table": "^0.1.5",
+    "superagent": "^5.2.2",
+    "syncrequest": "^1.4.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": ""
+}
