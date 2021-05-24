@@ -13,12 +13,13 @@
 
 * **`Alttaki Kısmı Doldurduktan Sonra Botun Çalıştı Tebrikler`** 🎉🎉🎉 
 
-`js
+```js
  "prefix": ["BOTUN PREFİXİ"],
  "token": "BOTUN TOKENİ",
  "yapimci": ["KENDİ İDNİ GİR"],
  "footer": "BOTUN FOOTHERİ İŞTE",
- "readyFooter": ["BOTUN DURUMU"],`
+ "readyFooter": ["BOTUN DURUMU"],
+```
 
 # İletişim
 * [Discord Sunucum](https://discord.gg/UEPcFtytcc)
