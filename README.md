@@ -18,4 +18,4 @@
  "token": "BOTUN TOKENİ",
  "yapimci": ["KENDİ İDNİ GİR"],
  "footer": "BOTUN FOOTHERİ İŞTE",
- "readyFooter": ["BOTUN DURUMU"],```
+ "readyFooter": ["BOTUN DURUMU"],
