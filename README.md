@@ -22,6 +22,6 @@
 ```
 
 # İletişim
-* [Discord Sunucum](https://discord.gg/UEPcFtytcc)
-* [Discord Profilim](https://discord.com/users/350976460313329665)
+* [Discord Sunucum](https://discord.gg/PKXxzKkmR5)
+* [Discord Profilim](https://discord.com/users/720358716670476408)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
