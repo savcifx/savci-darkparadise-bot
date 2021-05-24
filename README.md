@@ -11,4 +11,9 @@
 
 * **`Botu kurmak İçin terminale veya console npm install yazıp botun modüllerinin inmesini bekleyin sonra...`**
 
-* **`...`**
+* ```
+ "prefix": ["BOTUN PREFİXİ"],
+ "token": "BOTUN TOKENİ",
+ "yapimci": ["KENDİ İDNİ GİR"],
+ "footer": "BOTUN FOOTHERİ İŞTE",
+ "readyFooter": ["BOTUN DURUMU"],```
