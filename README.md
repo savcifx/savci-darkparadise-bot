@@ -18,4 +18,9 @@
  "token": "BOTUN TOKENİ",
  "yapimci": ["KENDİ İDNİ GİR"],
  "footer": "BOTUN FOOTHERİ İŞTE",
- "readyFooter": ["BOTUN DURUMU"],
+ "readyFooter": ["BOTUN DURUMU"],```
+
+# İletişim
+* [Discord Sunucum](https://discord.gg/UEPcFtytcc)
+* [Discord Profilim](https://discord.com/users/350976460313329665)
+* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
