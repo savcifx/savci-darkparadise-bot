@@ -1,4 +1,4 @@
-#  **Selam ben Justice, İbidi'nin Paylaştığı Owslacik Botunun Düzenlenmiş Halini Paylaşıyorum.**
+#  **Selam ben Savcı, İbidi'nin Paylaştığı Owslacik Botunun Düzenlenmiş Halini Paylaşıyorum.**
 
 
 #
